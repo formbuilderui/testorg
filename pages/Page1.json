@@ -112,6 +112,29 @@
               "firstDayOfWeek": 0,
               "closeOnSelection": true,
               "maxDate": "2121-12-31T18:29:00.000Z"
+            },
+            {
+              "widgetName": "DocumentViewer1",
+              "rightColumn": 45,
+              "isCanvas": false,
+              "displayName": "Document Viewer",
+              "iconSVG": "/formbuilderui/static/media/icon.09fcd36b.svg",
+              "widgetId": "pzzrp149bs",
+              "topRow": 49,
+              "bottomRow": 89,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "DOCUMENT_VIEWER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "animateLoading": true,
+              "parentColumnSpace": 13.09375,
+              "leftColumn": 21,
+              "docUrl": "https://www.learningcontainer.com/wp-content/uploads/2019/09/sample-pdf-file.pdf",
+              "key": "5i1g1dpkv1"
             }
           ]
         },
@@ -120,6 +143,7 @@
           "Button1",
           "CircularProgress1",
           "DatePicker1",
+          "DocumentViewer1",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
